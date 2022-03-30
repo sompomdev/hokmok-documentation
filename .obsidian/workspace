@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "d219f8822557d405",
+    "type": "split",
+    "children": [
+      {
+        "id": "8958c139dead402d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Supporter Skills/Lising/CRITICAL_DAMAGE.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f67aa4233f64bbd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "780a6ba6f3ae07e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46e61ee218f0d30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f77dec49c884d694",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SMPPetLevelConfiguration",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467
+  },
+  "right": {
+    "id": "83d56d3e4231f878",
+    "type": "split",
+    "children": [
+      {
+        "id": "2705a576934bfc00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a127f05d9e0b19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Supporter Skills/Lising/CRITICAL_DAMAGE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8958c139dead402d",
+  "lastOpenFiles": [
+    "Supporter Skills/Lising/CRITICAL_DAMAGE.md",
+    "Supporter Skills/Lising/CRITICAL_CHANCE.md",
+    "Supporter Skills/Lising/ALL_DAMAGE.md",
+    "Generic Rule/Game Level, Wave Rule.md",
+    "Supporter Skills/Lising/WAVE_REDUCE.md",
+    "Generic Rule/Monsters.md",
+    "Main Hero Skills/Listing/Gold fingers.md",
+    "Supporter Skills/Lising/GOLD_DROP.md",
+    "Supporter Skills/Support Skills.md",
+    "Supporter Skills/Lising/TREASURE_CHEST_GOLD.md"
+  ]
+}
