@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8958c139dead402d",
+        "id": "1a548023d2a6667e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Supporter Skills/Lising/CRITICAL_DAMAGE.md",
+            "file": "Generic Rule/Tap Damage.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SMPPetLevelConfiguration",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supporter Skills/Lising/CRITICAL_DAMAGE.md",
+                "file": "Generic Rule/Tap Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8958c139dead402d",
+  "active": "1a548023d2a6667e",
   "lastOpenFiles": [
+    "Generic Rule/Tap Damage.md",
+    "NOTE.md",
+    "Generic Rule/Game Level, Wave Rule.md",
+    "Generic Rule/Gold drop.md",
+    "Generic Rule/Mana pool Rule.md",
+    "Generic Rule/Monsters.md",
+    "Supporter Skills/Lising/GOLD_DROP.md",
     "Supporter Skills/Lising/CRITICAL_DAMAGE.md",
     "Supporter Skills/Lising/CRITICAL_CHANCE.md",
-    "Supporter Skills/Lising/ALL_DAMAGE.md",
-    "Generic Rule/Game Level, Wave Rule.md",
-    "Supporter Skills/Lising/WAVE_REDUCE.md",
-    "Generic Rule/Monsters.md",
-    "Main Hero Skills/Listing/Gold fingers.md",
-    "Supporter Skills/Lising/GOLD_DROP.md",
-    "Supporter Skills/Support Skills.md",
-    "Supporter Skills/Lising/TREASURE_CHEST_GOLD.md"
+    "Supporter Skills/Lising/ALL_DAMAGE.md"
   ]
 }

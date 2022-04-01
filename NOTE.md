@@ -1,0 +1,1 @@
+1. Should we update the order of applying bonus to tapDamage [[Tap Damage]]? 
